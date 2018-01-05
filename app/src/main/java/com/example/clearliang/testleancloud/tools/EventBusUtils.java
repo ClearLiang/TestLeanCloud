@@ -1,6 +1,7 @@
 package com.example.clearliang.testleancloud.tools;
 
 import com.example.clearliang.testleancloud.entity.MyEvent;
+import com.zhy.http.okhttp.OkHttpUtils;
 
 import org.greenrobot.eventbus.EventBus;
 
@@ -32,5 +33,6 @@ public class EventBusUtils {
         public static final int MAIN_FRAGMENT = 0x000001;
         public static final int HOME_FRAGMENT = 0x000002;
         public static final int MEUN_FRAGMENT = 0x000003;
+
     }
 }

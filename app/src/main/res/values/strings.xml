@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TestLeanCloud</string>
+    <string name="app_name">MyGame</string>
     <string name="title_message">消息</string>
     <string name="title_linkman">联系人</string>
     <string name="title_dynamic">动态</string>

@@ -10,7 +10,8 @@ import rx.subscriptions.CompositeSubscription;
  *
  */
 
-public class BasePresenter<T> {
+public class BasePresenter<T> implements GlobalVariable{
+
 
     Reference<T> mViewReference;
 
